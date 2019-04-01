@@ -1,5 +1,5 @@
 {
-  "name": "reactive-elements",
+  "name": "terryoy-reactive-elements",
   "version": "1.0.0-alpha.0",
   "description": "use a React.js component as web component",
   "main": "dist/reactive-elements.cjs.js",
